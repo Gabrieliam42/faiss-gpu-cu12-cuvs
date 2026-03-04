@@ -19,7 +19,7 @@ faiss_gpu_cu12_cuvs-1.14.0-cp312-cp312-linux_x86_64.whl
 | FAISS version | 1.14.0 |
 | Python | 3.12 |
 | CUDA | 12.x |
-| GPU architecture | Ampere (natively compiled; newer architectures may work via PTX JIT fallback, untested) |
+| GPU architecture | Ampere (natively compiled; newer architectures may work via PTX JIT fallback) |
 | cuVS | Enabled (`FAISS_ENABLE_CUVS=ON`) |
 | CPU SIMD | AVX2 |
 | BLAS | OpenBLAS |
@@ -132,5 +132,6 @@ This wheel is a self-contained pip-installable build of FAISS 1.14.0 with cuVS e
 
 FAISS is licensed under the [MIT License](https://github.com/facebookresearch/faiss/blob/main/LICENSE).
 This wheel is an unofficial build. Not affiliated with Meta or NVIDIA.
+
 
 
