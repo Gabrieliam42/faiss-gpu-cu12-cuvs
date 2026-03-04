@@ -1,6 +1,6 @@
 # FAISS-GPUu-cuVS — Unofficial pip Wheel
 
-**FAISS 1.14.0** built from source with full GPU and NVIDIA cuVS support.
+**FAISS 1.14.0** built from source with full GPU and NVIDIA cuVS support, and AVX2 CPU fallback.
 
 This fills a gap that does not exist elsewhere:
 - `faiss-gpu-cu12` on PyPI (including 1.14.0) — GPU only, **no cuVS**
