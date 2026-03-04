@@ -1,4 +1,4 @@
-# FAISS-GPUu-cuVS - Unofficial pip Wheel
+# FAISS-GPU-cuVS - Unofficial pip Wheel
 
 **FAISS 1.14.0** built from source with full GPU and NVIDIA cuVS support, and AVX2 CPU fallback.
 
