@@ -122,7 +122,7 @@ print("cuVS GPU index ready:", idx_gpu.ntotal == 0)
 
 ## Why does this exist?
 
-`faiss-gpu-cuvs` is officially distributed via conda only. No pip wheel exists.
+`faiss-gpu-cuvs` is officially distributed via conda only. No pip wheel exists except this unofficial one.
 The standard `faiss-gpu-cu12` pip package does not enable cuVS even at version 1.14.0.
 This wheel is a self-contained pip-installable build of FAISS 1.14.0 with cuVS enabled.
 
@@ -132,4 +132,5 @@ This wheel is a self-contained pip-installable build of FAISS 1.14.0 with cuVS e
 
 FAISS is licensed under the [MIT License](https://github.com/facebookresearch/faiss/blob/main/LICENSE).
 This wheel is an unofficial build. Not affiliated with Meta or NVIDIA.
+
 
