@@ -3,7 +3,7 @@
 **Facebook AI Similarity Search
 **FAISS 1.14.0** built from source with full GPU and NVIDIA cuVS support, and AVX2 CPU fallback.
 
-Also available on PyPI: https://pypi.org/project/faiss-gpu-cu12-cuvs/
+Now also available on PyPI: https://pypi.org/project/faiss-gpu-cu12-cuvs/
 
 This fills a gap that does not exist elsewhere:
 - `faiss-gpu-cu12` on PyPI (including 1.14.0) - GPU only, **no cuVS**
@@ -135,6 +135,7 @@ This wheel is a self-contained pip-installable build of FAISS 1.14.0 with cuVS e
 
 FAISS is licensed under the [MIT License](https://github.com/facebookresearch/faiss/blob/main/LICENSE).
 This wheel is an unofficial build. Not affiliated with Meta or NVIDIA.
+
 
 
 
