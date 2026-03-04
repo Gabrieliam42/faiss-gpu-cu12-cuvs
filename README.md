@@ -19,7 +19,7 @@ faiss_gpu_cu12_cuvs-1.14.0-cp312-cp312-linux_x86_64.whl
 | FAISS version | 1.14.0 |
 | Python | 3.12 |
 | CUDA | 12.x |
-| GPU architecture | SM 86 (RTX 3090 / RTX 3080) |
+| GPU architecture | Ampere (natively compiled; Ada Lovelace / Hopper via PTX JIT fallback, untested) |
 | cuVS | Enabled (`FAISS_ENABLE_CUVS=ON`) |
 | CPU SIMD | AVX2 |
 | BLAS | OpenBLAS |
