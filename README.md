@@ -11,7 +11,7 @@ This fills a gap that does not exist elsewhere:
 
 ---
 
-## Wheel
+## Wheel:
 
 ```
 faiss_gpu_cu12_cuvs-1.14.0-cp312-cp312-manylinux_2_38_x86_64.whl
